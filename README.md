@@ -20,6 +20,8 @@ Ember likes messages like this:
 
 Nuff said. Barely worth a repo.
 
+Written for ember-cli. Put it in app/serializers.
+
 
     
 
