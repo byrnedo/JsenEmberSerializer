@@ -1,4 +1,4 @@
-# JsenEmberSerializer
+# JsendEmberSerializer
 Simple Jsend format json serializer
 
 [Jsend](http://labs.omniti.com/labs/jsend) is a simple JSON spec.
